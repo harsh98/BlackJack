@@ -6,7 +6,6 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		deck.StartGame();
-		System.out.println(deck.ShuffleDeck());
 		System.out.println(user.GetHand());
 	}
 
